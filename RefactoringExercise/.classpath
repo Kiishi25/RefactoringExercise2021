@@ -6,15 +6,7 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/Users/kiishiifebajo/Desktop/jar_files/miglayout-core-5.2.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/Users/kiishiifebajo/Desktop/jar_files/miglayout-swing-5.2.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
+	<classpathentry kind="lib" path="/Users/kiishiifebajo/Desktop/jar_files/miglayout-swing-5.2.jar"/>
+	<classpathentry kind="lib" path="/Users/kiishiifebajo/Desktop/jar_files/miglayout-core-5.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
